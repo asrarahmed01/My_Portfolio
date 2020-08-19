@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Data Science Portfolio on Asrar Ahmed</title>
-    <link>https://github.com/asrarahmed01/My_Portfolio/</link>
+    <link>https://asrarahmed01.github.io/My_Portfolio/</link>
     <description>Recent content in My Data Science Portfolio on Asrar Ahmed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://github.com/asrarahmed01/My_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asrarahmed01.github.io/My_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predicting False 911 Calls</title>
-      <link>https://github.com/asrarahmed01/My_Portfolio/post/chapter-3/</link>
+      <link>https://asrarahmed01.github.io/My_Portfolio/post/chapter-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://github.com/asrarahmed01/My_Portfolio/post/chapter-3/</guid>
+      <guid>https://asrarahmed01.github.io/My_Portfolio/post/chapter-3/</guid>
       <description>False 911 calls are not only a waste of resources but take away from real emergencies. In this binary classification model, I analyzed a log of approximately 300,000 911 Emergency phone calls made in the city of San Francisco in 2018 from this website. The dataset consisted of mostly categorical features with high cardinality and the target class was highly imbalanced. After cleaning the dataset, I obtained an understanding of the relationship between features by means of visualization and statistical measures (chi-squared, R2 ).</description>
     </item>
     
     <item>
       <title>Text Analysis of the annual State of the Union address</title>
-      <link>https://github.com/asrarahmed01/My_Portfolio/post/chapter-2/</link>
+      <link>https://asrarahmed01.github.io/My_Portfolio/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/asrarahmed01/My_Portfolio/post/chapter-2/</guid>
+      <guid>https://asrarahmed01.github.io/My_Portfolio/post/chapter-2/</guid>
       <description>To obtain an appreciation of the vision of the nation held by contemporary U.S. presidents, part of the analysis must include an examination of their formal speeches. In this project, I analyzed each State of the Union(&amp;ldquo;SoTU&amp;rdquo;) address given by U.S. presidents for the past 40 years (Since Ronald Reagan in 1980 to Donald Trump in 2020). I web-scraped the annual State of the Union speeches from this website. Then, after doing some cleaning and digging, some of the questions I answered included:</description>
     </item>
     
     <item>
       <title>Customer Analytics</title>
-      <link>https://github.com/asrarahmed01/My_Portfolio/post/chapter-1/</link>
+      <link>https://asrarahmed01.github.io/My_Portfolio/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://github.com/asrarahmed01/My_Portfolio/post/chapter-1/</guid>
+      <guid>https://asrarahmed01.github.io/My_Portfolio/post/chapter-1/</guid>
       <description>In order for any business to thrive, the enterprise has to maximize revenue by understanding their customer base. In this exercise, I employed the Segregation, Targeting and Positioning (&amp;ldquo;STP&amp;rdquo;) Marketing Mix framework in analyzing the customer base of a fictional supermarket. I segregated the customer population into four clusters using Kmeans, an unsupervised learning model. After going over the demographic composition of each cluster and labeling them (High Income, Upper Middle Class, Lower Middle Class, Low Income), I analyzed each customer segment&amp;rsquo;s purchase behavior, including the:</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://github.com/asrarahmed01/My_Portfolio/contact/</link>
+      <link>https://asrarahmed01.github.io/My_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/asrarahmed01/My_Portfolio/contact/</guid>
+      <guid>https://asrarahmed01.github.io/My_Portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     LinkedIn: https://www.linkedin.com/in/asrar-ahmed-cpa   GitHub: https://github.com/asrarahmed01    </description>
     </item>

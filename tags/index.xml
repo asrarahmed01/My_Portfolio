@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Asrar Ahmed</title>
-    <link>https://github.com/asrarahmed01/My_Portfolio/tags/</link>
+    <link>https://asrarahmed01.github.io/My_Portfolio/tags/</link>
     <description>Recent content in Tags on Asrar Ahmed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/asrarahmed01/My_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asrarahmed01.github.io/My_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
